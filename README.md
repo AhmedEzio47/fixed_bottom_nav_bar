@@ -1,6 +1,6 @@
 # fixed_bottom_nav_bar
 
-A new Flutter application.
+Flutter template for apps that have bottom nav bar always on top
 
 ## Getting Started
 
